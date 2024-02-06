@@ -1,0 +1,1 @@
+py folder_sync.py "C:\Users\DELL\Documents\gitdemo\pytest\source_folder" "C:\Users\DELL\Documents\gitdemo\pytest\replica_folder" "C:\Users\DELL\Documents\gitdemo\pytest\logfile.txt" 5
